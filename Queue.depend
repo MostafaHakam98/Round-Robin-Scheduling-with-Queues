@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555193730 source:c:\users\mostafa98\desktop\queuelab\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555193730 source:e:\faculty of engineering\term 4\data structures\queues\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
